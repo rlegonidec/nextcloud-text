@@ -244,6 +244,15 @@ div.ProseMirror {
 		padding: .1em .3em;
 	}
 
+	ins {
+		color: green;
+	}
+
+	del {
+		color: red;
+		text-decoration: line-through;
+	}
+
 	li {
 		position: relative;
 		padding-left: 3px;
